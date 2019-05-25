@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: SalesWebMvc, Configuration: Debug Any CPU ------
+1>Controllers\HomeController.cs(40,29,40,43): error CS0246: The type or namespace name 'ErrorViewModel' could not be found (are you missing a using directive or an assembly reference?)
+1>Done building project "SalesWebMvc.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
